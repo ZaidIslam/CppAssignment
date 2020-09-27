@@ -103,6 +103,7 @@ Turn that first else statement to else if statement.
 ```
 
 6. **What is the take-away message from this bug?**
+
 That when there are multiple else statements, you need to use else if. Else is only used when its the last statement in the if statement.  
 ---
 
